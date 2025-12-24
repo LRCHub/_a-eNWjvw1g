@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ribbon",
+  "base_artist": "sabio",
+  "createdAt": "2025-12-24T12:39:25.098215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "\"Rednecks, White Socks And Blue Ribbon Beer\"",
+      "artist": "Johnny Russell",
+      "has_synced": false,
+      "path": "select/01_Rednecks,_White_Socks_And_Blue_Ribbon_Beer_Johnny_Russell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ribbon Of Darkness",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/02_Ribbon_Of_Darkness_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ribbon Of Darkness (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/03_Ribbon_Of_Darkness_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ribbon",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Ribbon_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ribbon Bows",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/05_Ribbon_Bows_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ribbon In The Sky (Live/1995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/06_Ribbon_In_The_Sky_(Live_1995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ribbon In The Sky (Live\u00001995)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/07_Ribbon_In_The_Sky_(Live\u00001995)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Ribbon for My Hair",
+      "artist": "Bent",
+      "has_synced": true,
+      "path": "select/08_A_Ribbon_for_My_Hair_Bent.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bones of Ribbon",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/09_Bones_of_Ribbon_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretty Pink Ribbon",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/10_Pretty_Pink_Ribbon_Cake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Ribbon",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/11_A_Ribbon_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Primadonna (Until The Ribbon Breaks Remix) - Until The Ribbon Breaks Remix",
+      "artist": "MARINA",
+      "has_synced": false,
+      "path": "select/12_Primadonna_(Until_The_Ribbon_Breaks_Remix)_-_Until_The_Ribbon_Breaks_Remix_MARINA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Primadonna (Until The Ribbon Breaks Remix)",
+      "artist": "Marina & the Diamonds",
+      "has_synced": false,
+      "path": "select/13_Primadonna_(Until_The_Ribbon_Breaks_Remix)_Marina_&_the_Diamonds.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ribbon Fat",
+      "artist": "Rollerskate Skinny",
+      "has_synced": false,
+      "path": "select/14_Ribbon_Fat_Rollerskate_Skinny.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ribbon In The Sky",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/15_Ribbon_In_The_Sky_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ribbon In The Sky (1982 Musiquarium Version)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/16_Ribbon_In_The_Sky_(1982_Musiquarium_Version)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ribbon",
+      "artist": "sabio",
+      "has_synced": false,
+      "path": "select/pl_01_Ribbon_sabio.txt"
+    }
+  ]
+}
